@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Zain Babar</h1>
-<h3 align="center">AI/ML Enthusiast | Python & Data Science | Cloud & Network Explorer</h3>
+<h3 align="center">Agentic AI & Automation Specialist | ML | DL | RL | NLP | Data Science | Chairperson, IEEE LGU SB | ACM Professional Member</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhhzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="uhhzzzzzzz" /> </p>
 
